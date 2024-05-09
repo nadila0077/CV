@@ -1,1 +1,98 @@
-# HTMLL-DAN-CSS-CV
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	<head>
+<body>
+    <!-- Container -->
+        <div class="container">
+            <div id="colspan">
+                <img src="https://styles.redditmedia.com/t5_2qh22/styles/communityIcon_gysvz8jisp621.png">
+                <h4>JULIA NADILA ENDRI</h4>
+                <p><i class="fa fa-briefcase fa-fw large"></i>Web Developer</p>
+                <p><i class="fa fa-home fa-fw large"></i>KUANTAN MUDIK, INDONESIA</p>
+                <p><i class="fa fa-phone fa-fw large"></i>082385557807</p>
+                <hr>
+                <h3><i class="fa fa-linux fa-fw large"></i>Skills</h3>
+                <p>HTML</p>
+                <div class="load">
+                    <div class="progress" style="width:90%">90%</div>
+                </div>
+                <p>CSS</p>
+                <div class="load2">
+                    <div class="progress2" style="width:80%">80%</div>
+                </div>
+                <p>Java Script</p>
+                <div class="load3">
+                <div class="progress3" style="width:70%">70%</div>
+            </div>
+                <p>Go Lang</p>
+                <div class="load4">
+                    <div class="progress4" style="width:65%">65%</div>
+                </div>
+                <p>Adobe Photoshop</p>
+                    <div class="load4">
+                    <div class="progress4" style="width:65%">65%</div>
+                </div>
+                <p>Adobe Premiere</p>
+                    <div class="load4">
+                    <div class="progress4" style="width:65%">65%</div>
+                </div>
+                <hr>
+                <h3><i class="fa fa-language fa-fw large"></i>Language</h3>
+                <p>English</p>
+                <p>Indonesia</p>
+                <hr>
+                <h3><i class="fa fa-globe fa-fw large"></i>Social Media</h3>
+                <a href="https://www.facebook.com/JULIA NADILA ENDRI"><i class="fa fa-facebook fa-fw large"></i></a>
+                <a href="https://www.instagram.com/JULIANADILA_07/?hl=id"><i class="fa fa-instagram fa-fw large"></i></a>
+                <a href="#"><i class="fa fa-twitter fa-fw large"></i></a>
+                <a href="https://github.com/nadila0077"><i class="fa fa-github fa-fw large"></i></a>
+                <a href="#"><i class="fa fa-git fa-fw large"></i></a>
+            </div>
+          <div class="container-padding">
+        <div class="padding">
+                <div class="content1">
+            <h2><i class="fa fa-briefcase fa-fw large"></i>School</h2>
+            <h3>Sekolah Dasar Negeri 010 kuantan mudik</h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2007-2012</p>
+            <p>Sekolah Dasar Negeri 010 kuantan mudik dengan nilai kelulusan 25.60
+            </p>
+            </div>
+            <hr>
+                <div class="content2">
+            <h3>Sekolah Menengah Pertama Negeri 01 kuantan mudik/h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2012-2015</p>
+            <p>Sekolah Menengah Pertama Negeri 01 kuantan mudik dengan nilai kelulusan 29.0
+            </p>
+            </div>
+            <hr>
+                <div class="content3"> 
+            <h3>Sekolah Menengah Atas</h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2015-2018</p>
+            <p>Sekolah Menengah Atas dengan nilai kelulusan 21.0 , jurusan Teknik Komputer Jaringan
+            </p>
+            </div>
+            </div>
+            </div>
+          <div class="padding-bottom">
+                <div class="bottom">
+                 <div class="content1">
+            <h2><i class="fa fa-briefcase fa-fw large"></i>Pengalaman :</h2>
+            <h3>Sebagai Staff IT Telkom Indonesia</h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2007-2012</p>
+            </div>
+            <hr>
+                <div class="content2">
+            <h3>Sekolah Menengah Atas</h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2012-2015</p>
+ 
+           
+            </div>
+            <hr>
+                <div class="content3"> 
+            <h3>universitas muhammadiyah riau</h3>
+            <p><i class="fa fa-calendar fa-fw large"></i>2018-2024</p>
+                        </div>
+            </div>
+        </div>
+    </body>
+</html>
